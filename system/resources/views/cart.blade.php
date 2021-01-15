@@ -40,16 +40,12 @@
                   <a href="#" class="mr-2" style="color: #000;">Total : Rp. 450,000 <span style="color: #000;"></span></a>
               </p>
 
-              <div class="input-group col-md-6 d-flex mb-3">
-                <p><a href="cart" class="btn btn-black py-3 px-4">Pesan Sekarang</a></p>
-              </div>
-              <div class="w-100"></div>
-             </div>
-            
-         
-
-             
-                <div class="w-100"></div>
+<div class="input-group col-md-6 d-flex mb-3">
+<p><a href="cart" class="btn btn-black py-3 px-4">Pesan Sekarang</a></p>
+</div>
+<div class="w-100"></div>
+  </div>
+    <div class="w-100"></div>
       <div class="col-md-12 mt-5">
         <div class="card">
           <div class="card-header">
